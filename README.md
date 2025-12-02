@@ -2,8 +2,6 @@
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/alexwang10/">linkedin</a>
-    ~
     <a href="https://yhoundz.github.io/">website</a>
   </p>
 </div>
